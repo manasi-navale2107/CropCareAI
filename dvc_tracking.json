@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "tracked_files": {
+    "Crop_recommendation.csv": {
+      "hash": "fa83739710074b21a20b156034538279",
+      "size": 147833,
+      "tracked_at": "2026-04-23 16:41:36"
+    },
+    "Crop_NPK.csv": {
+      "hash": "b34f51ffc246d52377032621f9f939ec",
+      "size": 583,
+      "tracked_at": "2026-04-23 16:41:36"
+    },
+    "crop.joblib": {
+      "hash": "c2d54d3fb1eb0aa171083708f163a3ba",
+      "size": 3079,
+      "tracked_at": "2026-04-23 16:41:36"
+    }
+  },
+  "model_metrics": {
+    "random_forest_accuracy": "99.32%",
+    "logistic_regression_accuracy": "95.23%"
+  }
+}
